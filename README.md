@@ -1,4 +1,4 @@
-RESTful API construída em Java 17 com Spring Boot 3.
+RESTfull API construída em Java 17 com Spring Boot 3.
 
 ## Recursos Utilizados
 
